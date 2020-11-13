@@ -12,3 +12,5 @@ No need to merge this XD.
 Thanks for the compliment!
 
 Of course! - Drew
+
+Since viewing your videos on git and github, I've generated, and have been maintaining repositories. I've even made a site live using git pages, which really helped set me up for my first project before I began the coding bootcamp/cohort I'm currently in. Thanks again for the excellent educational videos Mr. Hanselman; they're so very relevant/helpful. - Drew
